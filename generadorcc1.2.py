@@ -16,7 +16,7 @@ print ("\033[1;33mEDITADO POR JORGE BARBA\033[0;33m")
 
 print ("\033[1;33mVERSION: generadorcc1.2 \033[0;35m")
 
-os.system("neofetch")
+
 
 print ("")
 
